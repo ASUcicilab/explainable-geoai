@@ -28,11 +28,17 @@ After the generating process, you will have four images in the [`outputs`](./out
 * `<image_name>.ig.png`: Integrated Gradients visualization
 
 The file names of the figures in the manuscript are:
+
 Figure 2: volcano_000039
+
 Figure 3: meander_000059
+
 Figure 4: crater_000083
+
 Figure 5: dunes_000010
+
 Figure 6: volcano_000055
+
 Figure 7: icebergtongue_000067
 
 
